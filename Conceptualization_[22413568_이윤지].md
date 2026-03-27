@@ -7,6 +7,8 @@
 
 **Name:** [이윤지]
 
+**GitHub Repository:** <https://github.com/aa4059591/QuestPlanner>
+
 ### [ Revision history ]
 | Revision date | Version # | Description | Author |
 | :--- | :--- | :--- | :--- |
@@ -231,7 +233,7 @@ NFRs
 
 ## 7. References
 
-* **Jackson Project Home (GitHub):** [https://github.com/FasterXML/jackson]
-* **Oracle Java Documentation (Sockets):** [https://docs.oracle.com/javase/tutorial/networking/sockets/]
-* **Java MessageDigest API (Hashing):** [https://docs.oracle.com/javase/8/docs/api/java/security/MessageDigest.html]
-* **위키백과 – 게이미피케이션:** [https://ko.wikipedia.org/wiki/게이미피케이션]
+* **Jackson Project Home (GitHub):** <https://github.com/FasterXML/jackson>
+* **Oracle Java Documentation (Sockets):** <https://docs.oracle.com/javase/tutorial/networking/sockets/>
+* **Java MessageDigest API (Hashing):** <https://docs.oracle.com/javase/8/docs/api/java/security/MessageDigest.html>
+* **위키백과 – 게이미피케이션:** <https://ko.wikipedia.org/wiki/게이미피케이션>
