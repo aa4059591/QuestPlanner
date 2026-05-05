@@ -56,7 +56,8 @@
 
 ## 2. System context diagram
 
-<img width="611" height="291" alt="drawio" src="https://github.com/user-attachments/assets/7ec7fdfe-0fd1-4951-92d8-4e20df6ee29c" />
+<img width="620" height="339" alt="context drawio" src="https://github.com/user-attachments/assets/a30c8b36-2ad7-4ad4-979b-b1faf6bd357a" />
+
 
 * **Sign UP / Login:** 계정 생성 및 시스템 접속
 * **Add / Delete Quest:** 퀘스트(할 일) 등록 및 삭제
@@ -88,8 +89,8 @@
 | **11) Create Guild** | User | 방 이름과 비밀번호를 설정하여 새로운 실시간 길드 방을 개설한다. |
 | **12) Join Guild** | User | 방 코드를 입력하여 이미 개설된 길드 방에 입장한다. |
 | **13) Leave Guild** | User | 참여 중인 길드에서 퇴장한다. |
-| **14) Delegate Host** | User (Host) | 방장 퇴장 시 길드 유지를 위해 관리자 권한을 타인에게 위임한다. |
-| **15) Disband Guild** | User (Host) | 방장 권한으로 길드 방을 폐쇄하고 모든 접속자를 강제 퇴장시킨다. |
+| **14) Delegate Host** | Host | 방장 퇴장 시 길드 유지를 위해 관리자 권한을 타인에게 위임한다. |
+| **15) Disband Guild** | Host | 방장 권한으로 길드 방을 폐쇄하고 모든 접속자를 강제 퇴장시킨다. |
 
 
 
