@@ -12,8 +12,8 @@
 ### [ Revision history ]
 | Revision date | Version # | Description | Author |
 | :--- | :--- | :--- | :--- |
-| 03/27/2026 | 1.00 | First draft | [] |
-| 05/05/2026 | 1.10 | Use case list 및 Concept of operation 수정 | [] |
+| 2026/03/27 | 1.00 | First draft | [] |
+| 2026/05/05 | 1.10 | Use case list 및 Concept of operation 수정 | [] |
 
 ### = Contents =
 1. Business purpose ..................................................................................
